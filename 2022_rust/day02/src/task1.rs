@@ -36,7 +36,6 @@ fn eval_round(opponent: u32, mine: u32) -> u32 {
     return won_score + choice_score;
 }
 
-
 pub fn solve(input: &String) -> u32 {
     let mut score = 0;
     for line in input.split('\n') {

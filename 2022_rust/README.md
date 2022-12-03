@@ -6,3 +6,4 @@ Most of the code is mostly just trying out and learning rust. The quality might 
 
 * Day1 - first attempts, just trying to write C-style
 * Day2 - learning a bit about modules and pattern matching
+* Day3 - checking out collections, still unsure about reference/dereferencing - probably very bad
