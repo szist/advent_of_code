@@ -8,3 +8,4 @@ Most of the code is mostly just trying out and learning rust. The quality might 
 * Day2 - learning a bit about modules and pattern matching
 * Day3 - checking out collections, still unsure about reference/dereferencing - probably very bad
 * Day4 - not time to learn today new things, ugly af
+* Day5 - trying out structs and regex crates
