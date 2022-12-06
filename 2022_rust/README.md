@@ -9,3 +9,4 @@ Most of the code is mostly just trying out and learning rust. The quality might 
 * Day3 - checking out collections, still unsure about reference/dereferencing - probably very bad
 * Day4 - not time to learn today new things, ugly af
 * Day5 - trying out structs and regex crates
+* Day6 - not trying anything fancy, could be done in O(1) space to check for duplicates probably at the cost of readability
