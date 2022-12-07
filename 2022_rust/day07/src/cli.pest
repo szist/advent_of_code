@@ -1,0 +1,18 @@
+cli = { SOI ~ expr* ~ EOI }
+expr = { "$" ~ (list | change_dir) }
+list = { "ls" ~ EOL ~ output_line+ }
+change_dir = { "cd" ~ (parent_dir | name | root_dir) ~ EOL }
+parent_dir = { ".." }
+root_dir = { "/" }
+output_line = { (file | directory) ~ EOL }
+
+file = { file_size ~ name }
+name = { (ASCII_ALPHANUMERIC | ".")+ }
+file_size = { (ASCII_DIGIT)+ }
+
+directory = { "dir" ~ name }
+
+WHITESPACE = _{ " " }
+EOL = _{ EOI | "\n"}
+
+
