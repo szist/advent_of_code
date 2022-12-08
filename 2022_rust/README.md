@@ -11,3 +11,4 @@ Most of the code is mostly just trying out and learning rust. The quality might 
 * Day5 - trying out structs and regex crates
 * Day6 - not trying anything fancy, could be done in O(1) space to check for duplicates probably at the cost of readability
 * Day7 - trying out parser, missing a lot of knowledge about `Rc<>` & `RefCell` so not pretty, took too long to do, so no cleanup
+* Day8 - "it ain't pretty, but it works", just a lot of manual matrix traversal. Trying out mutable refs.
