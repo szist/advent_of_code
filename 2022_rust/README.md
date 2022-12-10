@@ -2,7 +2,9 @@
 
 Link to the tasks: https://adventofcode.com/2022
 
-Most of the code is mostly just trying out and learning rust. The quality might be very low.
+Most of the code is mostly just trying out and learning rust. None of the code is meant to be
+examplary nor effecitve. The goal was to try out as many features of the language as possible
+while having some fun.
 
 * Day1 - first attempts, just trying to write C-style
 * Day2 - learning a bit about modules and pattern matching
@@ -13,3 +15,5 @@ Most of the code is mostly just trying out and learning rust. The quality might 
 * Day7 - trying out parser, missing a lot of knowledge about `Rc<>` & `RefCell` so not pretty, took too long to do, so no cleanup
 * Day8 - "it ain't pretty, but it works", just a lot of manual matrix traversal. Trying out mutable refs.
 * Day9 - playing around with cloning and references
+* Day10 - trying out enums a second time and some custom step loops with some vector shorthands as a cherry on top
+
