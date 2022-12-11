@@ -16,4 +16,5 @@ while having some fun.
 * Day8 - "it ain't pretty, but it works", just a lot of manual matrix traversal. Trying out mutable refs.
 * Day9 - playing around with cloning and references
 * Day10 - trying out enums a second time and some custom step loops with some vector shorthands as a cherry on top
+* Day11 - couldn't be bothered with parsing again, so trying out dynamic functions in structs :)
 
