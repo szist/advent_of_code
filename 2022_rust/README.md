@@ -17,4 +17,5 @@ while having some fun.
 * Day9 - playing around with cloning and references
 * Day10 - trying out enums a second time and some custom step loops with some vector shorthands as a cherry on top
 * Day11 - couldn't be bothered with parsing again, so trying out dynamic functions in structs :)
+* Day12 - trying out pathfinding crate and looking into IterInto vs Iter
 
