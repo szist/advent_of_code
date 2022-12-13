@@ -18,4 +18,5 @@ while having some fun.
 * Day10 - trying out enums a second time and some custom step loops with some vector shorthands as a cherry on top
 * Day11 - couldn't be bothered with parsing again, so trying out dynamic functions in structs :)
 * Day12 - trying out pathfinding crate and looking into IterInto vs Iter
+* Day13 - meh, worst task so far, just painful with a clear advantage in python/js where you don't need to parse :/
 
