@@ -21,4 +21,4 @@ while having some fun.
 * Day13 - meh, worst task so far, just painful with a clear advantage in python/js where you don't need to parse :/
 * Day14 - fun, nothing new though
 * Day15 - fun, needed thinkging; not really optimal, but rust is also kind of cheating with its speed. Trying out breaking outer loops
-
+* Day16 - more fun task, playing around with itertools; still needs `cargo run --release`
