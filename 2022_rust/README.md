@@ -23,3 +23,4 @@ while having some fun.
 * Day15 - fun, needed thinkging; not really optimal, but rust is also kind of cheating with its speed. Trying out breaking outer loops
 * Day16 - more fun task, playing around with itertools; still needs `cargo run --release`
 * Day17 - welp this aint pretty
+* Day18 - walk in the park, just playing around with typecasts and `Option` shortcut `?`
